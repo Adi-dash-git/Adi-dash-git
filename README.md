@@ -5,10 +5,10 @@ I'm a passionate developer with a focus on technologies.
 
 ## 📍 Where I'm From
 <!-- "Bangalore, India" -->
-
+- "Bangalore, India"
 ## 🔗 Connect with Me
-- 🌐 Website: [Your Website](https://yourwebsite.com) <!-- portfolio -->
-- 💼 LinkedIn: [Aditya Dash](https://linkedin.com/in/yourprofile)
+- 🌐 Website: [Your Website](https://yourwebsite.com) 
+- 💼 LinkedIn: [Aditya Dash](https://www.linkedin.com/in/aditya-dash-7b10aa343/))
 - 📧 Email: adityadash7000@gmail.com 
 
 ## 🛠️ Tech Stack
@@ -46,9 +46,3 @@ Here are some of my featured projects:
 Last updated: October 13, 2025
 ```
 
-### Quick Tips to Enhance Your Profile
-- **Add a Profile Picture & Bio:** Go to your GitHub settings and update these for a personal touch.
-- **Pin Repos:** On your profile page, click the pin icon on your repos to feature them at the top.
-- **Badges & Stats:** The links above use free services like github-readme-stats. They auto-update!
-- **More Repos:** If you have more projects, expand the table or add a "All Projects" section.
-- **Commit Often:** Regular contributions will populate stats like followers and yearly commits.
