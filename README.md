@@ -7,15 +7,15 @@ I'm a passionate developer with a focus on technologies.
 <!-- "Bangalore, India" -->
 - "Bangalore, India"
 ## 🔗 Connect with Me
-- 🌐 Website: [Your Website](https://yourwebsite.com) 
-- 💼 LinkedIn: [Aditya Dash](https://www.linkedin.com/in/aditya-dash-7b10aa343/))
+- 🌐 Website: [My Website](https://github.com/Adi-dash-git/Portfolio-Repository) 
+- 💼 LinkedIn: [Aditya Dash](https://www.linkedin.com/in/aditya-dash-7b10aa343/)
 - 📧 Email: adityadash7000@gmail.com 
 
 ## 🛠️ Tech Stack
 <!-- List your skills, e.g., -->
-- **Languages:** Java , Python , JavaScript , HTML, CSS 
+- **Languages:**  Java , Python , JavaScript , HTML, CSS 
 - **Frameworks:**  React.js , Bootstrap
-- **Tools:** Git, Node.js
+- **Tools:**  Git, Node.js
 
 ## 🔥 Popular Repos
 Here are some of my featured projects:
