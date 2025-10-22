@@ -28,7 +28,7 @@ Here are some of my featured projects:
 
 | Repo Name | Description | Language | Link |
 |-----------|-------------|----------|------|
-| [The-Daily-Docket](https://github.com/Adi-dash-git/The-Daily-Docket) | A streamlined, responsive application for daily task management & productivity tracking. | React.JS | [View Repo][(https://github.com/Adi-dash-git/The-Daily-Docket).] |
+| [The-Daily-Docket](https://github.com/Adi-dash-git/The-Daily-Docket) | A streamlined, responsive application for daily task management & productivity tracking. | React.JS | [View Repo][(https://github.com/Adi-dash-git/The-Daily-Docket). |
 | [Portfolio-Repository](https://github.com/Adi-dash-git/Portfolio-Repository) | Personal portfolio showcase. | CSS | [View Repo](https://github.com/Adi-dash-git/Portfolio-Repository) |
 | [mission-control](https://github.com/Adi-dash-git/mission-control) | Project for mission control interface. | JavaScript | [View Repo](https://github.com/Adi-dash-git/mission-control) |
 | [Event-Management](https://github.com/Adi-dash-git/Event-Management) | Event management application. | CSS | [View Repo](https://github.com/Adi-dash-git/Event-Management) |
@@ -41,7 +41,6 @@ Here are some of my featured projects:
 ## 🏆 GitHub Trophies
 <!-- Add this for fun trophies based on activity -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adi-dash-git)
-
 
 
 
