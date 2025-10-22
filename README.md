@@ -29,9 +29,9 @@ Here are some of my featured projects:
 | Repo Name | Description | Language | Link |
 |-----------|-------------|----------|------|
 | [The-Daily-Docket](https://github.com/Adi-dash-git/The-Daily-Docket) | A streamlined, responsive application for daily task management & productivity tracking. | React.JS | [View Repo][(https://github.com/Adi-dash-git/The-Daily-Docket).] |
-| [Portfolio-Repository](https://github.com/Adi-dash-git/Portfolio-Repository) | Personal portfolio showcase. | HTML | [View Repo](https://github.com/Adi-dash-git/Portfolio-Repository) |
-| [mission-control](https://github.com/Adi-dash-git/mission-control) | Project for mission control interface (description coming soon). | CSS | [View Repo](https://github.com/Adi-dash-git/mission-control) |
-| [Event-Management](https://github.com/Adi-dash-git/Event-Management) | Event management application (description coming soon). | CSS | [View Repo](https://github.com/Adi-dash-git/Event-Management) |
+| [Portfolio-Repository](https://github.com/Adi-dash-git/Portfolio-Repository) | Personal portfolio showcase. | CSS | [View Repo](https://github.com/Adi-dash-git/Portfolio-Repository) |
+| [mission-control](https://github.com/Adi-dash-git/mission-control) | Project for mission control interface. | JavaScript | [View Repo](https://github.com/Adi-dash-git/mission-control) |
+| [Event-Management](https://github.com/Adi-dash-git/Event-Management) | Event management application. | CSS | [View Repo](https://github.com/Adi-dash-git/Event-Management) |
 
 ## 📊 GitHub Stats
 <!-- You can add dynamic badges here using shields.io or GitHub's built-in stats -->
@@ -45,5 +45,5 @@ Here are some of my featured projects:
 
 
 
-Last updated: October 20, 2025
+Last updated: October 22, 2025
 ```
