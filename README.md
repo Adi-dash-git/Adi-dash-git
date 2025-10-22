@@ -1,17 +1,18 @@
 # Hi there, I'm Adi Dash! 👋
-<!-- bio -->
+<!-- bio --><!-- "Building cool stuff with JavaScript and CSS. Currently exploring full-stack development." -->
  I love working across the entire stack — crafting engaging interfaces with ReactJS and handling backend logic with Python, Java, and SQL.  
-<!-- "Building cool stuff with JavaScript and CSS. Currently exploring full-stack development." -->
+
 
 ## 📍 Where I'm From
 
 - "Bangalore, India"
+  
 ## 🔗 Connect with Me
 - 🌐 Website: [My Website](https://github.com/Adi-dash-git/Portfolio-Repository) 
 - 💼 LinkedIn: [Aditya Dash](https://www.linkedin.com/in/aditya-dash-7b10aa343/)
 - 📧 Email: adityadash7000@gmail.com 
 
-  ---
+
 
 ## 🛠️ Tech Stack 💻
 
@@ -21,14 +22,13 @@
 - **Tools:**  Git, GitHub, Node.js
 - **Currently Learning**: SpringBoot, Hibernate
 
----
 
 ## 🔥 Popular Repos
 Here are some of my featured projects:
 
 | Repo Name | Description | Language | Link |
 |-----------|-------------|----------|------|
-| [The-Daily-Docket](https://github.com/Adi-dash-git/The-Daily-Docket) | A streamlined, responsive application for daily task management & productivity tracking. | React.JS | [View Repo][(https://github.com/Adi-dash-git/The-Daily-Docket). |
+| [The-Daily-Docket](https://github.com/Adi-dash-git/The-Daily-Docket) | A streamlined, responsive application for daily task management & productivity tracking. | React.JS | [View Repo](https://github.com/Adi-dash-git/The-Daily-Docket). |
 | [Portfolio-Repository](https://github.com/Adi-dash-git/Portfolio-Repository) | Personal portfolio showcase. | CSS | [View Repo](https://github.com/Adi-dash-git/Portfolio-Repository) |
 | [mission-control](https://github.com/Adi-dash-git/mission-control) | Project for mission control interface. | JavaScript | [View Repo](https://github.com/Adi-dash-git/mission-control) |
 | [Event-Management](https://github.com/Adi-dash-git/Event-Management) | Event management application. | CSS | [View Repo](https://github.com/Adi-dash-git/Event-Management) |
