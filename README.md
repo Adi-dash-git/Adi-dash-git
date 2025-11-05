@@ -1,27 +1,19 @@
 # Hi there, I'm Adi Dash! 👋
 <!-- bio --><!-- "Building cool stuff with JavaScript and CSS. Currently exploring full-stack development." -->
  I love working across the entire stack — crafting engaging interfaces with ReactJS and handling backend logic with Python, Java, and SQL.  
-
-
-## 📍 Where I'm From
-
-- "Bangalore, India"
   
 ## 🔗 Connect with Me
 - 🌐 Website: [My Website](https://github.com/Adi-dash-git/Portfolio-Repository) 
 - 💼 LinkedIn: [Aditya Dash](https://www.linkedin.com/in/aditya-dash-7b10aa343/)
 - 📧 Email: adityadash7000@gmail.com 
 
-
-
 ## 🛠️ Tech Stack 💻
 
 - **Languages:**  Java, Python, JavaScript , HTML, CSS 
-- **Frameworks:**  React.js , Bootstrap
+- **Frameworks & Libraries:**  React.js , Bootstrap
 - **Database**: SQL
 - **Tools:**  Git, GitHub, Node.js
 - **Currently Learning**: SpringBoot, Hibernate
-
 
 ## 🔥 Popular Repos
 Here are some of my featured projects:
@@ -42,7 +34,4 @@ Here are some of my featured projects:
 <!-- Add this for fun trophies based on activity -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Adi-dash-git)
 
-
-
-Last updated: October 22, 2025
 ```
