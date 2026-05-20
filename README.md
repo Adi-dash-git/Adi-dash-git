@@ -11,9 +11,9 @@
 
 - **Programming Languages:**  Java, Python, JavaScript, HTML5, CSS3
 - **Frameworks & Technologies:**  React.js, Tailwind CSS, Bootstrap, Spring Boot, Hibernate, Django
-- **Database Management:**: MySQL, SQL
+- **Database Management:** MySQL, SQL
 - **Developer Tools & Platforms:**  Git, GitHub, Node.js
-- **Currently Exploring**:AI Agents, Agentic AI, and Microservices Architecture 🚀
+- **Currently Exploring**: AI Agents, Agentic AI, and Microservices Architecture 🚀
 
 ## 🔥 Popular Repos
 Here are some of my featured projects:
@@ -21,7 +21,7 @@ Here are some of my featured projects:
 | Repo Name | Description | Language | Link |
 |-----------|-------------|----------|------|
 | [The-Daily-Docket](https://github.com/Adi-dash-git/The-Daily-Docket) | A streamlined, responsive application for daily task management & productivity tracking. | React.JS | [View Repo](https://github.com/Adi-dash-git/The-Daily-Docket) |
-| [Portfolio-Repository](https://github.com/Adi-dash-git/Portfolio-Repository) | Personal portfolio showcase. | CSS | [View Repo](https://github.com/Adi-dash-git/Portfolio-Repository) |
+| [Portfolio-Repository](https://github.com/Adi-dash-git/Portfolio-Repository) | Personal portfolio showcase. | JavaScript | [View Repo](https://github.com/Adi-dash-git/Portfolio-Repository) |
 | [mission-control](https://github.com/Adi-dash-git/mission-control) | Project for mission control interface. | JavaScript | [View Repo](https://github.com/Adi-dash-git/mission-control) |
 | [Event-Management](https://github.com/Adi-dash-git/Event-Management) | Event management application. | CSS | [View Repo](https://github.com/Adi-dash-git/Event-Management) |
 
