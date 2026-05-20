@@ -9,11 +9,11 @@
 
 ## 🛠️ Tech Stack 💻
 
-- **Languages:**  Java, Python, JavaScript , HTML, CSS 
-- **Frameworks & Libraries:**  React.js , Bootstrap
-- **Database**: SQL
-- **Tools:**  Git, GitHub, Node.js
-- **Currently Learning**: SpringBoot, Hibernate
+- **Programming Languages:**  Java, Python, JavaScript, HTML5, CSS3
+- **Frameworks & Technologies:**  React.js, Tailwind CSS, Bootstrap, Spring Boot, Hibernate, Django
+- **Database Management:**: MySQL, SQL
+- **Developer Tools & Platforms:**  Git, GitHub, Node.js
+- **Currently Exploring**:AI Agents, Agentic AI, and Microservices Architecture 🚀
 
 ## 🔥 Popular Repos
 Here are some of my featured projects:
